@@ -20,8 +20,5 @@ int main() {
     [[maybe_unused]] int e { 9 }, f { 10 };     // direct-list-initialization
     // also tell the compiler to shut up if these are unused
 
-    
-    
-
     return 0;
 }
